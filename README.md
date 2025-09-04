@@ -1,2 +1,2 @@
-# PROGRAMING
-This repository is creative to keep proyects that i makee in tis course
+#Programming Second Semester
+This repository is created to keep the projects I make in this course.
